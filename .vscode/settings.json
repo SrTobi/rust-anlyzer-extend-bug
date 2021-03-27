@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.procMacro.enable": true,
+    "rust-analyzer.cargo.allFeatures": true,
+    "rust-analyzer.loadOutDirsFromCheck": true, // this is actually greyed out
+}
