@@ -1,0 +1,8 @@
+[package]
+name = "rust-anlyzer-extend-bug"
+version = "0.1.0"
+authors = ["tobi"]
+edition = "2018"
+
+[dependencies]
+extend = "1.0"
